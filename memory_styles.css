@@ -1,0 +1,30 @@
+.topside {
+    color: #333;
+    margin: 0 auto;
+    text-align: center;
+  }
+li {
+    display: inline-block;
+    font-size: 1.5em;
+    list-style-type: none;
+    padding: 1em;
+    text-transform: uppercase;
+  }
+li span {
+    display: block;
+    font-size: 4.5rem;
+  }
+
+.square_div{
+    width: 100px;
+    height: 100px;
+    background: blue;
+    margin: 20px;
+}
+.lul{
+  font-size: 400;
+  color: blueviolet;
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-transform: uppercase;
+}
